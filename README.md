@@ -6,3 +6,4 @@ Web Application to upload and manage loadouts to enhance strategic planning in a
 
 ### Tecnology used
 PHP and MySQL
+Has error pages when input is incorrect/invalid
