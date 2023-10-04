@@ -5,5 +5,4 @@ Database and Web Services Project Fall 2022
 Web Application to upload and manage loadouts to enhance strategic planning in a video game called VALORANT.
 
 ### Tecnology used
-PHP and MySQL
-Has error pages when input is incorrect/invalid
+PHP and MySQL. Has error pages when input is incorrect/invalid.
